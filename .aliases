@@ -20,6 +20,7 @@ alias reset-last="git reset --soft HEAD^"
 alias stash-unstaged="git stash push --keep-index -u"
 
 # work-specific
+alias ld="lazydocker"
 alias dev="just dev-tmux-web"
 alias integration="make dev-tmux-integration"
 alias gentypes="turbo generate-types"
