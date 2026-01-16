@@ -5,11 +5,12 @@ alias gaa="git add ."
 alias gap="git add -p"
 
 alias gcm="git commit -m"
-
-alias gco="git checkout"
 alias gcob="git checkout -b"
 
+alias gs="git switch"
+
 alias gp="git pull"
+alias gpm="git pull origin main"
 alias gpush="git push"
 alias gpfwl="git push --force-with-lease"
 
@@ -19,12 +20,12 @@ alias reset-last="git reset --soft HEAD^"
 alias stash-unstaged="git stash push --keep-index -u"
 
 # work-specific
-alias dev="make dev-tmux-web"
+alias dev="just dev-tmux-web"
 alias integration="make dev-tmux-integration"
 alias gentypes="turbo generate-types"
 alias typecheck="turbo typecheck"
 alias typecheck-web="turbo typecheck -F web-client"
-alias make-types="make generate-types"
-alias story="make dev-storybook"
+alias make-types="turbo generate-types"
+alias story="just dev-storybook"
 alias test="make unit-test"
 alias do-pull="git pull && yarn post-pull && make dev-tmux-web"
