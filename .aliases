@@ -9,7 +9,7 @@ alias gcob="git checkout -b"
 
 alias gs="git switch"
 
-alias gp="git pull"
+alias gpull="git pull"
 alias gpm="git pull origin main"
 alias gpush="git push"
 alias gpfwl="git push --force-with-lease"
