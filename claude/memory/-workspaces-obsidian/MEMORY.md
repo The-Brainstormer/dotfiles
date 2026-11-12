@@ -1,0 +1,2 @@
+- [Link external references](jira-ticket-links.md) — Jira keys, Slack threads, PRs, docs always link to source
+- [Slack attribution](slack-attribution.md) — resolve U... IDs with `slack-vanta users` before naming who said something
