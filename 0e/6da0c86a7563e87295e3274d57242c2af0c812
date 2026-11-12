@@ -1,0 +1,29 @@
+claude/memory/-workspaces-obsidian/MEMORY.md
+  s_7f3cfbb16f13e2::t_30a4a4712a3dd8 1-2
+claude/memory/-workspaces-obsidian/jira-ticket-links.md
+  s_7f3cfbb16f13e2::t_f8fb492773b45d 1-18
+claude/memory/-workspaces-obsidian/slack-attribution.md
+  s_7f3cfbb16f13e2::t_cc6f02e7343d4c 1-15
+claude/skills/catching-up-after-time-off/SKILL.md
+  s_7f3cfbb16f13e2::t_f2fb0df5b0c5e3 1-92
+claude/skills/catching-up-after-time-off/scripts/gdoc-text.sh
+  s_7f3cfbb16f13e2::t_a38bcf4a666f51 1-32
+install.sh
+  s_7f3cfbb16f13e2::t_72878ed48560b5 20-49,51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "0e6da0c86a7563e87295e3274d57242c2af0c812",
+  "prompts": {},
+  "sessions": {
+    "s_7f3cfbb16f13e2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_7f3cfbb16f13e2",
+        "model": "unknown"
+      },
+      "human_author": "John Lawal <johnimholawal@gmail.com>"
+    }
+  }
+}
